@@ -4,6 +4,11 @@
 
 Du wolltest schon immer mal die umfangreiche Mod "Second Wind" auf Deutsch spielen? Dann ist dieses Projekt genau das Richtige für Dich! Dieses Projekt befindet sich in der Entwicklung und mit jedem SW-Update wird es einige Zeit dauern, bis die deutsche Version veröffentlicht wird, da nur wenige Personen mithelfen und wir zurzeit NICHT mit dem Second Wind Team in Verbindung stehen.
 
+## Aktueller Stand
+Der aktuelle Repository-Stand enthält eine reviewte deutsche Fassung für Second Wind `v1.9.14-alpha-7`.
+
+Die ältere Ablage `Second Wind v1.9.13` bleibt als Referenz erhalten. Der neue Stand liegt unter `Second Wind v1.9.14-alpha-7`.
+
 # Uns Kontaktieren
 Du kannst uns auf unserem [Discord Server](https://discord.gg/KbSh6k8e9v) kontaktieren.
 
@@ -14,7 +19,7 @@ Du kannst uns auf unserem [Discord Server](https://discord.gg/KbSh6k8e9v) kontak
 # Wie kann ich die Übersetzung verwenden?
 Als erstes musst du [die Originale Second Wind BNP](https://github.com/CEObrainz/Second-Wind/releases) in BCML installieren.
  
-Unsere BNPs werden nicht für die Beta und Dev Builds optimiert.
+Unsere BNPs werden nicht für Beta-, Dev- oder andere Zwischenbuilds optimiert.
 
 Dann musst du die aktuellste .BNP Datei aus dem "Release" Tab verwenden und mit [BCML](https://gamebanana.com/tools/6624) installieren.
 
