@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 780" role="img" aria-labelledby="title desc">
+  <title id="title">U-King Mod Manager example for Second Wind German</title>
+  <desc id="desc">Schematic example based on the current setup with the original Second Wind mod on priority 0 and the German BNP patch on priority 1.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0b1015" />
+      <stop offset="100%" stop-color="#04080c" />
+    </linearGradient>
+    <pattern id="grid" width="52" height="52" patternUnits="userSpaceOnUse">
+      <path d="M 52 0 L 0 0 0 52" fill="none" stroke="#0e5672" stroke-opacity="0.55" stroke-width="1" />
+    </pattern>
+  </defs>
+
+  <rect width="1100" height="780" fill="url(#bg)" />
+  <rect x="0" y="0" width="1100" height="52" fill="#16181b" />
+  <text x="18" y="33" fill="#f3f4f5" font-family="Segoe UI, Arial, sans-serif" font-size="24">U-King Mod Manager</text>
+
+  <text x="8" y="84" fill="#ebeff2" font-family="Segoe UI, Arial, sans-serif" font-size="22">Mods</text>
+  <text x="92" y="84" fill="#7f8790" font-family="Segoe UI, Arial, sans-serif" font-size="22">Package</text>
+  <text x="172" y="84" fill="#7f8790" font-family="Segoe UI, Arial, sans-serif" font-size="22">Settings</text>
+  <line x1="0" y1="98" x2="1100" y2="98" stroke="#0c1116" stroke-width="4" />
+
+  <rect x="6" y="108" width="1090" height="352" fill="#030a10" stroke="#0e5672" stroke-width="1.5" />
+  <rect x="8" y="110" width="104" height="30" rx="3" fill="#1f3440" stroke="#6aa9c5" stroke-width="1.2" />
+  <text x="18" y="131" fill="#eef3f7" font-family="Segoe UI, Arial, sans-serif" font-size="19">Default</text>
+  <path d="M 92 121 l 8 0 l -4 6 z" fill="#eef3f7" />
+  <rect x="120" y="110" width="24" height="24" rx="2" fill="#0f1e28" stroke="#6aa9c5" stroke-width="1" />
+  <text x="126" y="128" fill="#eef3f7" font-family="Segoe UI, Arial, sans-serif" font-size="20">+</text>
+  <rect x="150" y="110" width="26" height="24" rx="2" fill="#0f1e28" stroke="#6aa9c5" stroke-width="1" />
+  <path d="M 157 118 h 12 M 157 123 h 12 M 157 128 h 12" stroke="#eef3f7" stroke-width="1.5" />
+  <text x="972" y="128" fill="#c7d5de" font-family="Segoe UI, Arial, sans-serif" font-size="22">2 Mods / 2 Active</text>
+
+  <rect x="6" y="146" width="1090" height="314" fill="url(#grid)" opacity="0.92" />
+  <text x="470" y="188" fill="#d8dee5" font-family="Segoe UI, Arial, sans-serif" font-size="22">Name</text>
+  <text x="840" y="188" fill="#d8dee5" font-family="Segoe UI, Arial, sans-serif" font-size="22">Category</text>
+  <text x="940" y="188" fill="#d8dee5" font-family="Segoe UI, Arial, sans-serif" font-size="22">Version</text>
+  <text x="1030" y="188" fill="#d8dee5" font-family="Segoe UI, Arial, sans-serif" font-size="22">Priority</text>
+
+  <rect x="8" y="198" width="1086" height="41" fill="#0b1420" />
+  <rect x="10" y="206" width="16" height="16" rx="2" fill="#1d6a9b" stroke="#7ebada" stroke-width="1" />
+  <path d="M 13 214 l 3 4 l 7 -9" fill="none" stroke="#f4fbff" stroke-width="2" />
+  <text x="36" y="223" fill="#ecf4fb" font-family="Segoe UI, Arial, sans-serif" font-size="19">Second Wind v1.9.14-alpha-7</text>
+  <text x="843" y="223" fill="#d4e0e8" font-family="Segoe UI, Arial, sans-serif" font-size="19">Expansion</text>
+  <text x="935" y="223" fill="#d4e0e8" font-family="Segoe UI, Arial, sans-serif" font-size="19">1.9.14-a7</text>
+  <text x="1056" y="223" fill="#d4e0e8" font-family="Segoe UI, Arial, sans-serif" font-size="19">0</text>
+
+  <rect x="8" y="241" width="1086" height="41" fill="#41a6d8" />
+  <rect x="10" y="249" width="16" height="16" rx="2" fill="#1d6a9b" stroke="#dff4ff" stroke-width="1" />
+  <path d="M 13 257 l 3 4 l 7 -9" fill="none" stroke="#ffffff" stroke-width="2" />
+  <text x="36" y="266" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="19">Second Wind v1.9.14-alpha-7 German Complete Reviewed</text>
+  <text x="856" y="266" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="19">Other</text>
+  <text x="935" y="266" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="19">1.9.14-a7</text>
+  <text x="1056" y="266" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="19">1</text>
+
+  <rect x="6" y="468" width="1090" height="304" fill="#060c11" stroke="#21313d" stroke-width="1.5" />
+  <rect x="6" y="468" width="1090" height="32" fill="#16181b" />
+  <text x="8" y="490" fill="#d9e0e6" font-family="Segoe UI, Arial, sans-serif" font-size="18">Log</text>
+  <rect x="34" y="472" width="22" height="22" rx="2" fill="#0f1e28" stroke="#6aa9c5" stroke-width="1" />
+  <path d="M 39 477 l 12 12 M 51 477 l -12 12" stroke="#eaf5fb" stroke-width="1.5" />
+
+  <rect x="4" y="508" width="42" height="28" rx="3" fill="#0f1e28" stroke="#61a6c9" stroke-width="1" />
+  <text x="11" y="528" fill="#eaf5fb" font-family="Segoe UI, Arial, sans-serif" font-size="18">Clear</text>
+  <rect x="53" y="508" width="70" height="28" rx="3" fill="#0f1e28" stroke="#61a6c9" stroke-width="1" />
+  <text x="59" y="528" fill="#eaf5fb" font-family="Segoe UI, Arial, sans-serif" font-size="18">Log Levels</text>
+  <text x="4" y="568" fill="#c5d4de" font-family="Segoe UI, Arial, sans-serif" font-size="16">[INFO]: Started ukmm</text>
+  <text x="4" y="596" fill="#c5d4de" font-family="Segoe UI, Arial, sans-serif" font-size="16">[INFO]: Initializing mod manager</text>
+  <text x="4" y="624" fill="#c5d4de" font-family="Segoe UI, Arial, sans-serif" font-size="16">[INFO]: Current profile: Default</text>
+  <text x="4" y="652" fill="#c5d4de" font-family="Segoe UI, Arial, sans-serif" font-size="16">[INFO]: Initializing deployment manager</text>
+  <text x="4" y="680" fill="#c5d4de" font-family="Segoe UI, Arial, sans-serif" font-size="16">[INFO]: No files pending deployment</text>
+
+  <rect x="1018" y="754" width="52" height="22" rx="3" fill="#0f1e28" stroke="#61a6c9" stroke-width="1" />
+  <text x="1027" y="770" fill="#eaf5fb" font-family="Segoe UI, Arial, sans-serif" font-size="16">Copy</text>
+</svg>
