@@ -18,20 +18,20 @@ Du kannst uns auf unserem [Discord Server](https://discord.gg/KbSh6k8e9v) kontak
 
 # Wie kann ich die Übersetzung verwenden?
 ## Kurzanleitung mit U-King Mod Manager (UKMM)
-Second Wind `v1.9.14-alpha-7` wird in der aktuellen Fassung mit UKMM verwendet. Laut offizieller Release-Beschreibung wird dafuer `UKMM 0.17.0` oder neuer benoetigt.
+Second Wind `v1.9.14-alpha-7` wird in der aktuellen Fassung mit UKMM verwendet. Laut offizieller Release-Beschreibung wird dafür `UKMM 0.17.0` oder neuer benötigt.
 
-Unsere BNPs werden nicht fuer Beta-, Dev- oder andere Zwischenbuilds optimiert.
+Unsere BNPs werden nicht für Beta-, Dev- oder andere Zwischenbuilds optimiert.
 
-1. Lade die originale Second Wind UKMM-Datei aus den [offiziellen Releases](https://github.com/CEObrainz/Second-Wind/releases). Fuer `v1.9.14-alpha-7` ist das `Second.Wind.v1.9.14-alpha-7-UKMM.zip`.
-2. Lade die aktuelle deutsche Patch-Datei aus dem [Release-Bereich dieses Repositories](../../releases/latest). Der finale Patch heisst `SecondWind-v1-9-14-German-Complete-Reviewed.bnp`.
+1. Lade die originale Second Wind UKMM-Datei aus den [offiziellen Releases](https://github.com/CEObrainz/Second-Wind/releases). Für `v1.9.14-alpha-7` ist das `Second.Wind.v1.9.14-alpha-7-UKMM.zip`.
+2. Lade die aktuelle deutsche Patch-Datei aus dem [Release-Bereich dieses Repositories](../../releases/latest). Der finale Patch heißt `SecondWind-v1-9-14-German-Complete-Reviewed.bnp`.
 3. Importiere zuerst die Originalmod und danach den deutschen Patch in den U-King Mod Manager.
-4. Aktiviere beide Eintraege im Tab `Mods`.
-5. Achte darauf, dass der deutsche Patch eine hoehere Prioritaet als die Basis-Mod hat. Im Beispiel unten liegt `Second Wind v1.9.14-alpha-7` auf Prioritaet `0` und der deutsche Patch auf `1`.
-6. Wenn UKMM noch Aenderungen anwenden muss, fuehre das Deployment aus. Sobald im Log `No files pending deployment` steht, ist die Konfiguration einsatzbereit.
+4. Aktiviere beide Einträge im Tab `Mods`.
+5. Achte darauf, dass der deutsche Patch eine höhere Priorität als die Basis-Mod hat. Im Beispiel unten liegt `Second Wind v1.9.14-alpha-7` auf Priorität `0` und der deutsche Patch auf `1`.
+6. Wenn UKMM noch Änderungen anwenden muss, führe das Deployment aus. Sobald im Log `No files pending deployment` steht, ist die Konfiguration einsatzbereit.
 
 ![Schematische Beispielansicht im U-King Mod Manager](assets/ukmm-second-wind-example.svg)
 
-_Schematische Beispielansicht basierend auf dem aktuellen UKMM-Setup: Die Originalmod ist aktiv, der deutsche Patch ist ebenfalls aktiv und liegt mit hoeherer Prioritaet darueber._
+_Schematische Beispielansicht basierend auf dem aktuellen UKMM-Setup: Die Originalmod ist aktiv, der deutsche Patch ist ebenfalls aktiv und liegt mit höherer Priorität darüber._
 
 # Wie kann ich dieses Projekt unterstützen?
 Du kannst dieses Projekt unterstützen indem du uns Fehler/Übersetzungsfehler im [Issues Tab](https://github.com/customswitch/SecondWindGerman/issues) mitteilst und unserem [Discord Server](https://discord.gg/KbSh6k8e9v) beitrittst.
